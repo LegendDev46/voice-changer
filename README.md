@@ -2,13 +2,13 @@
 This project is a voice changer application that utilizes advanced speech recognition technology and ElevenLabs' API to alter the user's voice in real-time. It's designed for users looking to have fun with voice modifications and for developers interested in exploring voice synthesis and transformation technologies.
 
 ## Installation
-To install, you may watch my [video guide](https://olavorw.media/vc1install) or follow these three steps:
+To install,follow these three steps:
 1. Extract the file
 2. Launch the program
 3. Follow instructions
 
 ## Contact Methods
-If you have any questions or feel you need to reach out to me for any reason, don't hesitate to contact me. The best way to do this is to ping me in my [Discord server](https://discord.gg/5QP6X3S5fq).
+If you have any questions or feel you need to reach out to me for any reason, don't hesitate to contact me. The best way to do this is to ping me in my [Email](high5dev621@gmail.com).
 
 ## Prerequisites
 This software was developed on Windows 11. It should work on Windows 10, if not, reach out to me. You will also need an ElevenLabs API key. [Elevenlabs](https://elevenlabs.io) is a paid service used to generate the AI audio for the voices. You will also need a voice ID from ElevenLabs. You can get a voice from their voice library, or make your own. Now, to use use the program as a microphone for applications, you'll need to download. [VBCable](https://vb-audio.com/Cable/). You can hear the audio and everything without it but to turn it into a microphone you need to download [VBCable](https://vb-audio.com/Cable/). I am working on my own virtual microphone at the moment, but in the meanwhile, you will need to use [VBCable](https://vb-audio.com/Cable/).
@@ -26,10 +26,6 @@ When you install, run, or use this software, you agree to the Code of Conduct in
 - **[STYLEGUIDE.md](./STYLEGUIDE.md)**: Contains style guidelines for the project
 - **[TODO.md](./TODO.md)**: Contains a list of tasks that need to be completed
 - **[INSTALLER_LICENSE.md](./INSTALLER_LICENSE.txt)**: Contains the license for the installer
-
-## Development Squadron
-- Olav AKA Olavorw; Project Lead, Developer, and Designer
-- Tacolotl; Developer, Bug Hunter, and Tester (Not yet confirmed, Invited)
 
 ``` 
 __/\\\________/\\\_        ________/\\\\\\\\\_        ______/\\\_        
